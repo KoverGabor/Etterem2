@@ -1,0 +1,6 @@
+@Etterem_HostAddress = http://localhost:5110
+
+GET {{Etterem_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
